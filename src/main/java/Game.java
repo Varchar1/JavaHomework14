@@ -29,7 +29,7 @@ public class Game {
             return 1;
         } else if (strength1 < strength2) {
             return 2;
-        } else  {
+        } else {
             return 0;
         }
     }
